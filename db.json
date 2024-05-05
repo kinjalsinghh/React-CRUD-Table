@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "email": "john@rediffmail.com",
+      "contact": "987512XXXX"
+    },
+    {
+      "id": "2",
+      "name": "Melaa",
+      "email": "melaacurson@gmail.com",
+      "contact": "895636XXXX"
+    },
+    {
+      "id": "3",
+      "name": "Zenith",
+      "email": "zenith@yahoo.com",
+      "contact": "765986XXXX"
+    }
+  ]
+}
